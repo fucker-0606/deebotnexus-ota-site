@@ -8,7 +8,7 @@
     "changelog": "DeebotNexus 0.1.0 release update.",
     "platforms": {
       "darwin-aarch64": {
-        "url": "https://fucker-0606.github.io/deebotnexus-ota-site/DeebotNexus-mac.dn-ota",
+        "url": "https://github.com/fucker-0606/deebotnexus-ota-site/releases/download/offline-ota-v1/DeebotNexus-main-macos-0.1.0.dn-ota",
         "sha256": "ffaa77a5ee1b9e46e1ee63a6a8fa97e87e194e6c73fc4a03cdc4d03ffc59be3a",
         "tauriSignature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTelFpK2diWXIxTTlCaUxPOElUNHkwbmxCZ3dQOStURnNWRWNrNkpIczVRRG93UDFjU0lkTVJuTGdZWm4zSnhtc2RqYnY3NnpkK1UrN3BhSDdpOWxtbzNOQ1NnZE5vdVEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4MTIxODk2CWZpbGU6RGVlYm90TmV4dXMuYXBwLnRhci5nego5bmMxSS9qU1BJWDRmZEs2azJBWVBZVDArNDF5WWkrV3Byd2d1OUJKc0lNL3JQWHdZa2ttWTFrTWJIa3g2WEI0QzJZdWl5NVZ1S0xIMy91S3RpYk5DZz09Cg==",
         "payloadSha256": "7bab93d4e901b01727292c98b7de8ca02f15f6b8ddfd706c4cafd7b52744d8f4",
@@ -42,7 +42,7 @@
         "darwin-x86_64",
         "windows-x86_64"
       ],
-      "url": "https://fucker-0606.github.io/deebotnexus-ota-site/plugins/lds-2d-viewer-0.1.0.dn-ota",
+      "url": "https://github.com/fucker-0606/deebotnexus-ota-site/releases/download/offline-ota-v1/lds-2d-viewer-0.1.0.dn-ota",
       "sha256": "b0d91a4790268156f5a8a73b748c5d81d11013b99d2adcdf9778247c46b500c6",
       "signature": "74765ab16c7fb15a8cdbf192ddb028e1d5c4166aec1de5c07244092d2a1a2da301d58c441f3956e226981ea2892eecba46d512f50e8c32870b751b3961ed0b08",
       "requiresManualConfigReview": false,
@@ -67,7 +67,7 @@
         "darwin-x86_64",
         "windows-x86_64"
       ],
-      "url": "https://fucker-0606.github.io/deebotnexus-ota-site/plugins/sensor-3d-viewer-0.1.0.dn-ota",
+      "url": "https://github.com/fucker-0606/deebotnexus-ota-site/releases/download/offline-ota-v1/sensor-3d-viewer-0.1.0.dn-ota",
       "sha256": "c5a136b7072f311d15c8e10640d280d6e52bd095da7f462cc6fb2094a85504f5",
       "signature": "d6bf3fd3fbf56065d4d246542a369996d3d5a31664f096a5917f0fd6386cabe552a64a7cfffd62135a08ba0ace82cd96eba8b260be8928673b1815240162600a",
       "requiresManualConfigReview": false,

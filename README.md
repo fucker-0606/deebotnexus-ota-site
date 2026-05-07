@@ -2,13 +2,15 @@
 
 This repository is the public static OTA update site for DeebotNexus.
 
-Only publish files that clients are allowed to download:
+GitHub Pages only publishes lightweight metadata and the optional human-readable index:
 
 - `latest.json`
 - `manifest.json`
-- `release-report.json`
-- `DeebotNexus-*.dn-ota`
-- `plugins/*.dn-ota`
+- `index.html`
+- `README.md`
+
+Distributable `.dn-ota` binaries are published as GitHub Release assets instead of
+being tracked in the Pages branch.
 
 Never publish private updater payloads, `.dn-plugin` files, signing keys,
 decryption keys, CI secrets, or release records that contain local machine paths.
