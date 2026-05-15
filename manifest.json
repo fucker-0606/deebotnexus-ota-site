@@ -79,9 +79,34 @@
       "signature": "31e7bc9cfee2863ac5df1cccbbb0d3560d2bc1c125dbaea917a089756993b3670761a27ed9e3b81bacd711e4bbf043107794270b779bb574c0d32aedb60f0a07",
       "url": "https://github.com/acer-0606/deebotnexus-ota-site/releases/download/v0.1/sensor-3d-viewer-0.1.1.dn-ota",
       "version": "0.1.1"
+    },
+    {
+      "changelog": "Service Automation Workflow 0.1.0 release with refreshed UI, narrow library quick run, and guarded workflow rename/import.",
+      "encryption": {
+        "format": "dn-ota",
+        "keyId": "plugin-ota-v1",
+        "payloadPath": "payloads/service-automation-workflow-0.1.0.dn-plugin"
+      },
+      "hostVersion": {
+        "max": null,
+        "min": "0.2.0"
+      },
+      "id": "service-automation-workflow",
+      "name": "Service Automation Workflow",
+      "payloadSha256": "59ce75946779b42794fcb7209bc8b470e6cc57b6574c667afd042d385323ce34",
+      "platforms": [
+        "darwin-aarch64",
+        "darwin-x86_64",
+        "windows-x86_64"
+      ],
+      "requiresManualConfigReview": false,
+      "sha256": "02a0b1219a3063463662f35272ccce54a3f898dcc3a11495bc7e09a9c5a5e7c3",
+      "signature": "968c70177e1f87927f6ff085feb74bf37b52902dba9e5de0ddefd9e8a1653b8472f308ea5c6d0041c7e35556174366d1a782981f1a73e085e9c80aa86ae5140c",
+      "url": "https://github.com/acer-0606/deebotnexus-ota-site/releases/download/v0.1/service-automation-workflow-0.1.0.dn-ota",
+      "version": "0.1.0"
     }
   ],
-  "publishedAt": "2026-05-15T02:30:44.957Z",
+  "publishedAt": "2026-05-15T15:00:08.382Z",
   "schemaVersion": 1,
-  "signature": "126f0b2d7d0274face9d306199c803ef4a542b94ee6d1812974a7ee97f422ce66fb0f7f3c4695db5a6fba3fb33f897e4588028a53a97860be5ff0091ec17d408"
+  "signature": "a764572f4f06289fd0530748afaca601bbf817054d2974b819ce336488494e69650efea5b4054aa3363fea0f71d72db76c6795a2080d7070aae2d1c4951ad109"
 }
