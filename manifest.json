@@ -56,11 +56,11 @@
       "version": "0.1.0"
     },
     {
-      "changelog": "Sensor 3D viewer 0.1.1 fixes Z-up orbit rotation.",
+      "changelog": "Sensor 3D viewer 0.1.2 adds display controls, transient sensor filters, and reset view.",
       "encryption": {
         "format": "dn-ota",
         "keyId": "plugin-ota-v1",
-        "payloadPath": "payloads/sensor-3d-viewer-0.1.1.dn-plugin"
+        "payloadPath": "payloads/sensor-3d-viewer-0.1.2.dn-plugin"
       },
       "hostVersion": {
         "max": null,
@@ -68,17 +68,17 @@
       },
       "id": "sensor-3d-viewer",
       "name": "Sensor 3D Viewer",
-      "payloadSha256": "65de7160d1a2521489e31bba4b94363f93babd4f5b75e336e478ea5c44b70df8",
+      "payloadSha256": "2df014df72be14534092806c743362dc801fa00f4b0e9a7df5da7284bbf71f55",
       "platforms": [
         "darwin-aarch64",
         "darwin-x86_64",
         "windows-x86_64"
       ],
       "requiresManualConfigReview": false,
-      "sha256": "372d6b43d7b706fe6cd23e13cd82a0fe080b7a2a94811e1dafc23ef7396928e4",
-      "signature": "31e7bc9cfee2863ac5df1cccbbb0d3560d2bc1c125dbaea917a089756993b3670761a27ed9e3b81bacd711e4bbf043107794270b779bb574c0d32aedb60f0a07",
-      "url": "https://github.com/acer-0606/deebotnexus-ota-site/releases/download/v0.1/sensor-3d-viewer-0.1.1.dn-ota",
-      "version": "0.1.1"
+      "sha256": "f848a3a44b8fd5584c41b20fb698ee5366a4d44fc1c0ce7163cd9e61c4e01d5d",
+      "signature": "f031d9cd270ac51504e6749de0fae634e812de0a871e118da7695d20db363f7e67bb8136b3606f2b2aa5b314f2c8e6103c5e4c995bd92a49c986a104848ed409",
+      "url": "https://github.com/acer-0606/deebotnexus-ota-site/releases/download/v0.1/sensor-3d-viewer-0.1.2.dn-ota",
+      "version": "0.1.2"
     },
     {
       "changelog": "Service Automation Workflow 0.1.0 release with refreshed UI, narrow library quick run, and guarded workflow rename/import.",
@@ -106,7 +106,7 @@
       "version": "0.1.0"
     }
   ],
-  "publishedAt": "2026-05-15T15:00:08.382Z",
+  "publishedAt": "2026-05-15T15:58:48.000Z",
   "schemaVersion": 1,
-  "signature": "a764572f4f06289fd0530748afaca601bbf817054d2974b819ce336488494e69650efea5b4054aa3363fea0f71d72db76c6795a2080d7070aae2d1c4951ad109"
+  "signature": "56b6499309cb3dddc676a7ad78dfb47740e7b49ced12fb1adf128dda630fff20295853627212a9e9deabc8236f478f6cfa74cbd66bfb940c2152b100ef5ec609"
 }
